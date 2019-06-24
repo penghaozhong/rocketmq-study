@@ -1,0 +1,6 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Cannot open file /dev/shm/mq_gc_pid4346.log due to No such file or directory
+
+错误: 找不到或无法加载主类 org.apache.rocketmq.broker.BrokerStartup
+Java HotSpot(TM) 64-Bit Server VM warning: Cannot open file /dev/shm/mq_gc_pid4375.log due to No such file or directory
+
+错误: 找不到或无法加载主类 org.apache.rocketmq.broker.BrokerStartup
